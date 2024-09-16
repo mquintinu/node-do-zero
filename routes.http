@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://node-do-zero-qqcg.onrender.com/videos
 Content-Type: application/json
 Accept-Language: pt
 
@@ -10,17 +10,17 @@ Accept-Language: pt
 
 ###
 
-GET http://localhost:3333/videos
+GET https://node-do-zero-qqcg.onrender.com/videos
 Accept-Language: pt
 
 ###
 
-GET http://localhost:3333/videos?search=Node
+GET https://node-do-zero-qqcg.onrender.com/videos?search=Node
 Accept-Language: pt
 
 ###
 
-PUT http://localhost:3333/videos/3f4a0dbf-af2a-4836-86bd-015470f57e0a
+PUT https://node-do-zero-qqcg.onrender.com/videos/0f5eb823-5e71-4093-bac7-126261e36a01
 Content-Type: application/json
 Accept-Language: pt
 
@@ -32,7 +32,7 @@ Accept-Language: pt
 
 ###
 
-DELETE http://localhost:3333/videos/3f4a0dbf-af2a-4836-86bd-015470f57e0a
+DELETE https://node-do-zero-qqcg.onrender.com/videos/0f5eb823-5e71-4093-bac7-126261e36a01
 Content-Type: application/json
 Accept-Language: pt
 
